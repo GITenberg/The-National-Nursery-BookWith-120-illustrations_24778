@@ -1,0 +1,36 @@
+_repo: The-National-Nursery-BookWith-120-illustrations_24778
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2008-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24778'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry'
+- !lcsh 'Picture books for children'
+- !lcsh 'Fairy tales'
+- !lcsh 'Nursery rhymes'
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+tableOfContents: Red Riding-Hood -- Puss-in-boots -- Mother Hubbard -- Cock Robin's
+  death -- Jack and the bean-stalk -- Tom Thumb -- Cinderella -- The three bears --
+  Punch and Judy -- The pets -- Nursery songs -- Nursery rhymes -- Nursery ditties
+  -- Nursery tales -- Nursery jingles.
+title: 'The National Nursery Book
+
+  With 120 illustrations'
+url: http://www.gutenberg.org/ebooks/24778
